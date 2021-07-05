@@ -1,0 +1,41 @@
+import wollok.game.*
+import diego.*
+import interface.*
+import extras.*
+import config.*
+
+program diegoGame {
+		// PANTALLA
+	game.title('El Diegote y Un Viaje Cósmico')
+	game.width(25)
+	game.height(13)
+	game.boardGround("marte.png")
+		// VISUALES
+	game.addVisual(diego)
+	game.showAttributes(diego)
+	game.addVisual(copa)
+	game.addVisual(signoYerba)
+	game.addVisual(unidad)
+	game.addVisual(decena)
+	game.addVisual(centena)
+	game.addVisual(yerba)
+	game.addVisual(misterBean)
+	game.addVisual(peter)
+	game.addVisual(asteroide)
+	game.addVisual(extraterrestre)
+	game.addVisual(brasileroCapoeira)
+	game.addVisual(cometa)
+	game.addVisual(bilardo)
+	game.addVisual(sustancia)
+	game.addVisual(banderaInglesa)
+	game.addVisual(banderaBrasilera)
+	game.addVisual(ronaldino)
+	game.addVisual(ruggeri)
+	game.addVisual(banderaArgentina)
+	game.addVisual(messi)
+	game.addVisual(balonOro)
+		// CONFIGURACIONES
+	config.configuracionDeTeclas()
+	config.colisiones()
+	game.start()
+}
