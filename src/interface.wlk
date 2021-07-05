@@ -87,4 +87,4 @@ object centena inherits Visual (position = new Position(x = 22, y = 11)) {
 
 }
 
-const yerba = new Visual(position = new Position(x=21,y=11), image = "signoYerba.png")
+const signoYerba = new Visual(position = new Position(x=21,y=11), image = "signoYerba.png")

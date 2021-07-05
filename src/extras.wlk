@@ -106,15 +106,15 @@ const banderaBrasilera = new Paralizador(position = new Position(x = 5, y = 5), 
 
 const sustancia = new Paralizador(position = new Position(x = 8, y = 2), image = "sustancia.png", tiempo = 2000)
 
-//object dolar inherits DanDinero (position = new Position(x = 1, y = 1), image = "dolar.png", dineroQueLeOtorga = 10) {
+object yerba inherits DanYerba (position = new Position(x = 1, y = 1), image = "yerba.png", yerbaQueLeOtorga = 10) {
 
-	//override method teEncontro() {
-		//self.comprobarSiGana()
-	//	diego.colisionarCon(self)
-		//self.mover()
-	//}
+	override method teEncontro() {
+		self.comprobarSiGana()
+	diego.colisionarCon(self)
+		self.mover()
+	}
 
-//}
+}
 
 class QuitanCopa inherits Visual {
 
