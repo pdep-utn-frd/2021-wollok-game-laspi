@@ -42,13 +42,13 @@ object config {
 		}
 	}
 
-	method colisiones() {
-		game.onCollideDo(diego, { unPersonaje => unPersonaje.teEncontro()})
-		game.onTick(500, "GRAVEDAD", {diego.caer()})
-		game.schedule(1000, { game.sound("ambiente.mp3").play()
-		game.onTick(149000, "musica", { game.sound("ambiente.mp3").play()})
-		})
-	}
+	//method colisiones() {
+		//game.onCollideDo(diego, { unPersonaje => unPersonaje.teEncontro()})
+		//game.onTick(500, "GRAVEDAD", {diego.caer()})
+		//game.schedule(1000, { game.sound("ambiente.mp3").play()
+		//game.onTick(149000, "musica", { game.sound("ambiente.mp3").play()})
+		//})
+	//}
 
 }
 

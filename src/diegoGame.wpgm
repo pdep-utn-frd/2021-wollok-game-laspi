@@ -36,6 +36,6 @@ program diegoGame {
 	game.addVisual(balonOro)
 		// CONFIGURACIONES
 	config.configuracionDeTeclas()
-	config.colisiones()
+	//config.colisiones()
 	game.start()
 }
