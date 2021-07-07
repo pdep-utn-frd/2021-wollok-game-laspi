@@ -1,7 +1,7 @@
 # ¡EL DIEGOTE Y UN VIAJE CÓSMICO!
 
 ## Juego Wollok
-![](diego.png) ![](mundo.png)
+![https://ibb.co/yQL4byF](diego.png) ![https://ibb.co/mzc0hT4](mundo.png)
 ### Introducción
 La agencia de inteligencia junto con cientificos Argentinos buscan realizar pruebas para llevar al hombre al espacio.
 El elegido fue un astronauta llamado Diego y debido a la deficiente tecnologia Argentina nuestro amigo se quedó barado en un planeta desconocido
