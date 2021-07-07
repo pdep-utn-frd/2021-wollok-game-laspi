@@ -159,7 +159,7 @@ object ronaldino inherits QuitanCopa (position = new Position(x = 13, y = 9), im
 
 }
 
-object bilardo inherits Visual (position = new Position(x = 5, y = 9), image = "bilardo.png") {
+object bilardo inherits Visual (position = new Position(x = 5, y = 9), image = "bilardo.jpg") {
 
 	method darCopa() {
 		if (diego.copas() < 3) {
