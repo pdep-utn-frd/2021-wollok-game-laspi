@@ -22,47 +22,47 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
 ![](https://ibb.co/px23P28/bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
 
 ### Personajes:
-  1) ![](https://ibb.co/vvp51KW/asteroide-png)
+  1. ![](https://ibb.co/vvp51KW/asteroide-png)
   Ojo con el asteoride, si el Diegote se pega un palo contra eso lo vas a matar.
    
-  2) ![](https://ibb.co/kc4T7wN/africanoCapoeira.png)
+  2. ![](https://ibb.co/kc4T7wN/africanoCapoeira.png)
   Tené cuidado con el Brasilero Capoeira que pega mas que Tyson con la cantidad de patadas que tira.Ademas como es Brasilero no va a perder oportunidad
   para ROBARTE UNA COPA DEL MUNDO!
   
-  3) ![](extraterrestre.png)
+  3. ![](extraterrestre.png)
   Bueno esto es re fuera de contexto, pero casualmente te cruzaste con ET. Es re inofensivo el bichito pero muy curioso.
   ET no tiene la mas palida idea de lo que es la YERBA. Le llama tanto la atención que te va a robar todos los paquetes que tengas.
   (Al final lo importante es la yerba y no que hayamos encontrado vida en otro planeta, o que posiblemente estemos en la casa de ET.
   Eso que lo estudie la ciencia)
    
-  4) ![](/peter.png) ![](peter.png)
+  4. ![](/peter.png) ![](peter.png)
   Bueno, aca la cosa se pone turbia. No sabemos como llegó este inglés aca. No vamos a decir mucho a ver si nos denuncian al INADI pero no te acerques 
   a PETER que está medio resentido por el gol con la mano y muy probable que te quiera ROBAR LA COPA DEL MUNDO!. 
   
-  5) ![](sustancia.png)
+  5. ![](sustancia.png)
   Como en todo planeta desconocido, tambien hay sustancias desconocidas. No toques nada verde (LA YERBA ES VERDE PERO NO APLICA) proveniente de ese mundo.
   Cualquier sustancia desconocida va a provocar un desgaste fisico. Puede que te sientas cansado por un tiempo.
   
-  6) ![](ronaldino.png)
+  6. ![](ronaldino.png)
    Tené cuidado con ronaldiño. Esta deseperado por ROBARTE UNA COPA!. (La envidia brasilera, amarian ser nosotros. 
   ¿Ah, por que tan egocentricos?)
   
-  7) ![](messi.png)
+  7. ![](messi.png)
   Este juego se ve que tiene un problema de tiempos u otras hierbas, pero en fin, hizo que te encuentres al 10 y mejor jugador del mundo ACTUAL. 
   Como el mejor de todos los tiempos, te quiere ayudar a volver. Te da 150 paquetes de YERBA. (Tiene todo el presupuesto para comprarla también,
   si dependieras del autor de este juego anda buscando trabajo en el planeta que te quedaste)
   
-  8) ![](banderaBrasilera.png)
+  8. ![](banderaBrasilera.png)
   Tené cuidado con la bandera brasilera. No hay nada mas sucio para jugar que un brasilero. No dejes que te agarren de la camiseta y te retrasen 3 seg.
   
-  9) ![](banderaInglesa.png)
+  9. ![](banderaInglesa.png)
   Si agarras esta bandera sos un VENDE PATRIA. Además no hay nada mas PIRATA que un inglés. Cuidado que no te robe UNA COPA!   
   
-  10) ![](ruggeri.png)
+  10. ![](ruggeri.png)
   No hay nada mejor que reencontrarte con tu SUBCAPITAN. Que grande el cabezón! Te da 100 paquetes de YERBA para que puedas volver a la Tierra. 
   (Ni menem hizo tanto por la Argentina). Hacele caso a cabeza que es medio arrancado verde capaz que quiebra algun ingles y ganas no le faltan.
   
-  11) ![](banderaArgentina.png)
+  11. ![](banderaArgentina.png)
   Mas te vale que agarres la Bandera Argentina no seas pecho frio. Además, si no la queres agarrar porque no pinta,
   agarrala porque te da 25 paquetes de YERBA y eso es GRATIS (El argentino siempre agarrando todo lo que sea gratis)
   
@@ -70,8 +70,13 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
   Bueno es hora que ganemos un par de premios. Merecido lo tiene cualquier Argentino y mas el diegote (re orgullosos). 
   El balon de oro te otorga 50 paquetes de YERBA 
   
-  13) ![](cometa.png)
+  13. ![](cometa.png)
   Cuidado con el cometa, si el Diegote choca contra eso, adios idolo y no vas a querer que el cabezón Ruggeri te insulte por pecho. 
+  
+  14. ![](/misterBean.png)
+  Bueno esto ya se tornó un poco raro y no sabemos como este sujeto llegó aca. Si bien eso no es lo importante, tené cuidado con MrBean ya que es un poco
+  fanático del futbol y no dudará de hacerte un par de bromas pesadas como quitarte YERBA para que te cueste volver. (típico humor inglés)
+  
 
 
 ### Información del Proyecto
