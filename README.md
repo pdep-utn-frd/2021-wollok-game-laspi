@@ -75,11 +75,11 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
 
 ### Información del Proyecto
 
-Alumnas: Mata Nuñez Nadia 
+Alumnas: Mata Nuñez Nadia, 
 		 Correa Florencia
 
-Profesores: Spigariol Lucas
-			Bono Juan
+Profesores: Spigariol Lucas,
+			Bono Juan,
 			Hilt Franco
 
 
