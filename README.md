@@ -22,7 +22,7 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
 ![](https://ibb.co/px23P28/bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
 
 ### Personajes:
-  1. ![](https://i.ibb.co/LpzC3ZY/asteroide.png)
+  1. ![](https://i.ibb.co/d5w7SM1/asteroide.png)
   Ojo con el asteoride, si el Diegote se pega un palo contra eso lo vas a matar.
    
   2. ![](https://i.ibb.co/W3DpQ10/brasilero-Capoeira.png)
