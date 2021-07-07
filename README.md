@@ -22,20 +22,20 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
 ![](https://ibb.co/px23P28/bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
 
 ### Personajes:
-  1. ![](https://ibb.co/vvp51KW/asteroide-png)
+  1. ![](https://i.ibb.co/LpzC3ZY/asteroide.png)
   Ojo con el asteoride, si el Diegote se pega un palo contra eso lo vas a matar.
    
-  2. ![](https://ibb.co/kc4T7wN/africanoCapoeira.png)
+  2. ![](https://i.ibb.co/W3DpQ10/brasilero-Capoeira.png)
   Tené cuidado con el Brasilero Capoeira que pega mas que Tyson con la cantidad de patadas que tira.Ademas como es Brasilero no va a perder oportunidad
   para ROBARTE UNA COPA DEL MUNDO!
   
-  3. ![](extraterrestre.png)
+  3. ![](https://i.ibb.co/Wt3dV0F/extraterrestre.png)
   Bueno esto es re fuera de contexto, pero casualmente te cruzaste con ET. Es re inofensivo el bichito pero muy curioso.
   ET no tiene la mas palida idea de lo que es la YERBA. Le llama tanto la atención que te va a robar todos los paquetes que tengas.
   (Al final lo importante es la yerba y no que hayamos encontrado vida en otro planeta, o que posiblemente estemos en la casa de ET.
   Eso que lo estudie la ciencia)
    
-  4. ![](/peter.png) ![](peter.png)
+  4. ![](https://i.ibb.co/MBtYNvy/peter.png)
   Bueno, aca la cosa se pone turbia. No sabemos como llegó este inglés aca. No vamos a decir mucho a ver si nos denuncian al INADI pero no te acerques 
   a PETER que está medio resentido por el gol con la mano y muy probable que te quiera ROBAR LA COPA DEL MUNDO!. 
   
@@ -46,7 +46,7 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
   6. ![](ronaldino.png)
    Tené cuidado con ronaldiño. Esta deseperado por ROBARTE UNA COPA!. (La envidia brasilera, amarian ser nosotros. 
   ¿Ah, por que tan egocentricos?)
-  
+   
   7. ![](messi.png)
   Este juego se ve que tiene un problema de tiempos u otras hierbas, pero en fin, hizo que te encuentres al 10 y mejor jugador del mundo ACTUAL. 
   Como el mejor de todos los tiempos, te quiere ayudar a volver. Te da 150 paquetes de YERBA. (Tiene todo el presupuesto para comprarla también,
