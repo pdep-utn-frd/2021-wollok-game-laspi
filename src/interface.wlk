@@ -82,10 +82,10 @@ object decena inherits Visual (position = new Position(x = 23, y = 11)) {
 
 object centena inherits Visual (position = new Position(x = 22, y = 11)) {
 
-	override method image() = self.c().toString() + ".png"
+	override method image() = self.c().toString() +	".png"
 
 	method c() = (diego.yerba() / 100).truncate(0)
 
 }
 
-const signoYerba = new Visual(position = new Position(x=21,y=11), image = "signoYerba.png")
+const logoYerba = new Visual(position = new Position(x=21,y=11), image = "logoYerba.png")

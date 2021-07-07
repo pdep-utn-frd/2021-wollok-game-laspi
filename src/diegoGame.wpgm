@@ -14,7 +14,7 @@ program diegoGame {
 	game.addVisual(diego)
 	game.showAttributes(diego)
 	game.addVisual(copa)
-	game.addVisual(signoYerba)
+	game.addVisual(logoYerba)
 	game.addVisual(unidad)
 	game.addVisual(decena)
 	game.addVisual(centena)
