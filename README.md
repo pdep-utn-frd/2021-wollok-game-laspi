@@ -1,7 +1,7 @@
 # ¡EL DIEGOTE Y UN VIAJE CÓSMICO!
 
 ## Juego Wollok
-![](https://ibb.co/xGZB3FG/diegote.jpg) ![](https://ibb.co/wL6mD9Z/mundo.jpg)
+![](https://ibb.co/j3rXPSN/diegote.jpg) ![](https://ibb.co/wL6mD9Z/mundo.jpg)
 
 ### Introducción
 La agencia de inteligencia junto con cientificos Argentinos buscan realizar pruebas para llevar al hombre al espacio.
