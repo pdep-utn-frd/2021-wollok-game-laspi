@@ -70,7 +70,7 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
   Bueno es hora que ganemos un par de premios. Merecido lo tiene cualquier Argentino y mas el diegote (re orgullosos). 
   El balon de oro te otorga 50 paquetes de YERBA 
   
-  13. ![](https://i.ibb.co/prJckt2/cometa.png)
+  13. ![](https://i.ibb.co/0DkcHTX/cometa.png)
   Cuidado con el cometa, si el Diegote choca contra eso, adios idolo y no vas a querer que el cabezón Ruggeri te insulte por pecho. 
   
   14. ![](https://i.ibb.co/F4j9GY9/mister-Bean.png)
