@@ -5,12 +5,12 @@ import extras.*
 import config.*
 
 program diegoGame {
-		// PANTALLA
+		// Pantalla
 	game.title('El Diegote y Un Viaje Cósmico')
 	game.width(25)
 	game.height(13)
 	game.boardGround("mundo.png")
-		// VISUALES
+		// Personajes
 	game.addVisual(diego)
 	game.showAttributes(diego)
 	game.addVisual(copa)
@@ -34,7 +34,7 @@ program diegoGame {
 	game.addVisual(banderaArgentina)
 	game.addVisual(messi)
 	game.addVisual(balonOro)
-		// CONFIGURACIONES
+		// Configuraciones
 	config.configuracionDeTeclas()
 	config.colisiones()
 	game.start()
