@@ -19,7 +19,7 @@ que te roben las COPAS DEL MUNDO !
 Mové al diegote con las flechas.
 Ojo con los personajes, recordá que algunos te perjudican y otros te ayudan en este viaje. 
 Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte una COPA DEL MUNDO para que sigas jugando.
-![](https://i.ibb.co/RhJ9PPk/bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
+![](https://i.ibb.co/xL17S8C/bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
 
 ### Personajes:
   1. ![](https://i.ibb.co/xCFPsDz/asteroide.png)
