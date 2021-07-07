@@ -11,14 +11,14 @@ Si acompañas a Diego a juntar la mayor cantidad de paquetes de yerba posibles l
 LAS COMPAS DEL MUNDO, nuestro amigo quedará perdido en el espacio.
 Adelante, probá salvar al Diegote de este viaje cósmico, hacer que vuelva a la Tierra y demandar 
 a los que hicieron el cohete trucho que lo dejó barado. 
-Recordá mantener tu Argentinidad al palo para ganar, junta toda la yerba que puedas y evita 
+Recordá mantener tu Argentinidad al palo para ganar, juntá toda la yerba que puedas y evitá
 que te roben las COPAS DEL MUNDO !
 
 ### Instrucciones: 
 Mové al diegote con las flechas.
 Ojo con los personajes, recordá que algunos te perjudican y otros te ayudan en este viaje. 
 Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte una COPA DEL MUNDO para que sigas jugando.
-![](bilardo.png) = la cantidad maxima de copas son 3. Que mas querés sino el juego seria re facil! (ya se somos ARG) 
+![](bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
 
 ### Personajes:
   1) ![](asteroide.png)
@@ -75,12 +75,9 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
 
 ### Información del Proyecto
 
-Alumnas: Mata Nuñez Nadia, 
-		 Correa Florencia
+Alumnas: Mata Nuñez Nadia, Correa Florencia
 
-Profesores: Spigariol Lucas,
-			Bono Juan,
-			Hilt Franco
+Profesores: Spigariol Lucas, Bono Juan, Hilt Franco
 
 
 
