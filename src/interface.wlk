@@ -2,7 +2,7 @@ import diego.*
 import wollok.game.*
 import extras.*
 
-object fin inherits Visual(position = new Position(x = 8, y = 1)) {
+object fin inherits Visual(position = new Position(x = 5, y = 3)) {
 
 	override method image() {
 		if (diego.yerba() >= 999) 

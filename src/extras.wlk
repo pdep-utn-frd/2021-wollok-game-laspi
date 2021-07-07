@@ -98,7 +98,7 @@ class Paralizador inherits Visual {
 	override method teEncontro() {
 		diego.estatico(true)
 		game.schedule(tiempo, { diego.estatico(false)})
-		game.say(self, "Tocaste la roca extraterrestre te produce tener poco estado físico gracias al cansancio")
+		game.say(self, "cuidado! la sustancia te produce cansancio perdes 3 seg")
 	}
 
 }
@@ -110,7 +110,7 @@ class Paralizador2 inherits Visual {
 	override method teEncontro() {
 		diego.estatico(true)
 		game.schedule(tiempo, { diego.estatico(false)})
-		game.say(self, "Agarraste una bandera Brasilera mereces perder tiempo por traición")
+		game.say(self, "Agarraste la bandera Brasilera perdes 2seg por traición")
 	}
 
 }
@@ -150,7 +150,7 @@ const banderaInglesa = new QuitanCopa(position = new Position(x = 15, y = 11), i
 
 const brasileroCapoeira = new QuitanCopa(position = new Position(x = 15, y = 5), image = "brasileroCapoeira.png")
 
-object extraterrestre inherits QuitanCopa (position = new Position(x = 13, y = 9), image = "extraterrestre.png") {
+object ronaldino inherits QuitanCopa (position = new Position(x = 13, y = 9), image = "ronaldino.png") {
 
 	override method teEncontro() {
 		self.quitarCopa()
@@ -177,7 +177,7 @@ object bilardo inherits Visual (position = new Position(x = 5, y = 9), image = "
 
 }
 
-object ronaldino inherits Visual (position = new Position(x = 9, y = 8), image = "ronaldino.png") {
+object extraterrestre inherits Visual (position = new Position(x = 9, y = 8), image = "extraterrestre.png") {
 
 	override method teEncontro() {
 		diego.yerba(0)
