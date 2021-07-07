@@ -66,7 +66,7 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
   Mas te vale que agarres la Bandera Argentina no seas pecho frio. Además, si no la queres agarrar porque no pinta,
   agarrala porque te da 25 paquetes de YERBA y eso es GRATIS (El argentino siempre agarrando todo lo que sea gratis)
   
-  12.![](https://i.ibb.co/mcyYqz9/balonOro.jpg)
+  12.![]("https://i.ibb.co/jwVp0nG/balonOro.png)
   Bueno es hora que ganemos un par de premios. Merecido lo tiene cualquier Argentino y mas el diegote (re orgullosos). 
   El balon de oro te otorga 50 paquetes de YERBA 
   
