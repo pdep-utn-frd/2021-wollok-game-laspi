@@ -1,4 +1,4 @@
-#El Diegote y un Viaje Cósmico!
+#EL DIEGOTE Y UN VIAJE CÓSMICO!
 
 ## Juego Wollok
 ![](diego.png) ![](mundo.png)
