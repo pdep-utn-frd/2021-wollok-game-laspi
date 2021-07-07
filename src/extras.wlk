@@ -137,7 +137,7 @@ class QuitanCopa inherits Visual {
 
 	method quitarCopa() {
 		diego.copas(diego.copas() - 1)
-		game.say(self, "PERDISTE UNA COPA, MANTENTE ATENTO QUE TIENES QUE VOLVER A LA TIERRA")
+		game.say(self, "PERDISTE UNA COPA, ESTA COPA ES MIA !")
 		if (diego.copas() == 0) {
 			game.removeTickEvent("GRAVEDAD")
 			game.addVisual(fin)
