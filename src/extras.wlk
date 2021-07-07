@@ -40,13 +40,13 @@ class DanYerba inherits Visual {
 
 }
 
-const ruggeri = new DanYerba(position = new Position(x = 4, y = 6), image = "ruggeri.png", yerbaQueLeOtorga = 100)
+const ruggeri = new DanYerba(position = new Position(x = 1, y = 8), image = "ruggeri.png", yerbaQueLeOtorga = 100)
 
-const messi = new DanYerba(position = new Position(x = 8, y = 4), image = "messi.png", yerbaQueLeOtorga = 25)
+const messi = new DanYerba(position = new Position(x = 8, y = 4), image = "messi.png", yerbaQueLeOtorga = 150)
 
-const banderaArgentina = new DanYerba(position = new Position(x = 11, y = 8), image = "banderaArgentina.png", yerbaQueLeOtorga = 50)
+const banderaArgentina = new DanYerba(position = new Position(x = 14, y = 2), image = "banderaArgentina.png", yerbaQueLeOtorga = 25)
 
-const balonOro = new DanYerba(position = new Position(x = 20, y = 3), image = "balonOro.png", yerbaQueLeOtorga = 50)
+const balonOro = new DanYerba(position = new Position(x = 20, y = 1), image = "balonOro.png", yerbaQueLeOtorga = 50)
 
 class QuitanYerba inherits Visual {
 
@@ -63,7 +63,7 @@ class QuitanYerba inherits Visual {
 
 }
 
-const misterBean = new QuitanYerba(position = new Position(x = 19, y = 6), image = "misterBean.png")
+const misterBean = new QuitanYerba(position = new Position(x = 22, y = 6), image = "misterBean.png")
 
 const peter = new QuitanYerba(position = new Position(x = 19, y = 8), image = "peter.png")
 
@@ -103,7 +103,19 @@ class Paralizador inherits Visual {
 
 }
 
-const banderaBrasilera = new Paralizador(position = new Position(x = 5, y = 5), image = "banderaBrasilera.png", tiempo = 3000)
+class Paralizador2 inherits Visual {
+
+	const tiempo
+
+	override method teEncontro() {
+		diego.estatico(true)
+		game.schedule(tiempo, { diego.estatico(false)})
+		game.say(self, "Agarraste una bandera Brasilera mereces perder tiempo por traición")
+	}
+
+}
+
+const banderaBrasilera = new Paralizador2(position = new Position(x = 5, y = 4), image = "banderaBrasilera.png", tiempo = 3000)
 
 const sustancia = new Paralizador(position = new Position(x = 8, y = 2), image = "sustancia.png", tiempo = 2000)
 
@@ -134,11 +146,11 @@ class QuitanCopa inherits Visual {
 
 }
 
-const banderaInglesa = new QuitanCopa(position = new Position(x = 15, y = 8), image = "banderaInglesa.png")
+const banderaInglesa = new QuitanCopa(position = new Position(x = 15, y = 11), image = "banderaInglesa.png")
 
-const brasileroCapoeira = new QuitanCopa(position = new Position(x = 13, y = 5), image = "brasileroCapoeira.png")
+const brasileroCapoeira = new QuitanCopa(position = new Position(x = 15, y = 5), image = "brasileroCapoeira.png")
 
-object extraterrestre inherits QuitanCopa (position = new Position(x = 9, y = 9), image = "extraterrestre.png") {
+object extraterrestre inherits QuitanCopa (position = new Position(x = 13, y = 9), image = "extraterrestre.png") {
 
 	override method teEncontro() {
 		self.quitarCopa()
@@ -147,7 +159,7 @@ object extraterrestre inherits QuitanCopa (position = new Position(x = 9, y = 9)
 
 }
 
-object bilardo inherits Visual (position = new Position(x = 7, y = 7), image = "bilardo.png") {
+object bilardo inherits Visual (position = new Position(x = 5, y = 9), image = "bilardo.png") {
 
 	method darCopa() {
 		if (diego.copas() < 3) {
@@ -165,7 +177,7 @@ object bilardo inherits Visual (position = new Position(x = 7, y = 7), image = "
 
 }
 
-object ronaldino inherits Visual (position = new Position(x = 12, y = 7), image = "ronaldino.png") {
+object ronaldino inherits Visual (position = new Position(x = 9, y = 8), image = "ronaldino.png") {
 
 	override method teEncontro() {
 		diego.yerba(0)
