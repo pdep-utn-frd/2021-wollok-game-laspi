@@ -59,7 +59,7 @@ object pausa inherits Visual(position = new Position(x=0,y=0), image = "pausa.pn
 
 object copa inherits Visual(position = new Position(x=22,y=12)) { 
 
-	override method image() = "copa" + diego.copas().toString() + "copa.png"
+	override method image() = "copa" + diego.copas().toString() + ".png"
 
 }
 
