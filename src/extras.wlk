@@ -90,6 +90,7 @@ object cometa inherits Mortal {
 	override method image() = "cometa" + direccion + ".png"
 }
 
+
 class Paralizador inherits Visual {
 
 	const tiempo

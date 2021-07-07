@@ -9,7 +9,7 @@ program diegoGame {
 	game.title('El Diegote y Un Viaje Cósmico')
 	game.width(25)
 	game.height(13)
-	game.boardGround("marte.jpg")
+	game.boardGround("mundo.png")
 		// VISUALES
 	game.addVisual(diego)
 	game.showAttributes(diego)

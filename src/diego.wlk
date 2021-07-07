@@ -9,7 +9,7 @@ object diego inherits Visual (position = new Position(x = 10, y = 10)) {
 	var property estatico = false
 	var property direccion = "Der"
 	
-	override method image() = "diegote" + direccion + ".png" 
+	override method image() = "diego" + direccion + ".png" 
 	
 	method move(nuevaPosicion) {
 		self.position(nuevaPosicion)
