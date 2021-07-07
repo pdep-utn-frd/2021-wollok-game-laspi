@@ -19,13 +19,13 @@ que te roben las COPAS DEL MUNDO !
 Mové al diegote con las flechas.
 Ojo con los personajes, recordá que algunos te perjudican y otros te ayudan en este viaje. 
 Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte una COPA DEL MUNDO para que sigas jugando.
-![](bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
+![](https://ibb.co/px23P28/bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
 
 ### Personajes:
-  1) ![](asteroide.png)
+  1) ![](https://ibb.co/vvp51KW/asteroide.png)
   Ojo con el asteoride, si el Diegote se pega un palo contra eso lo vas a matar.
    
-  2) ![](africanoCapoeira.png)
+  2) ![](https://ibb.co/kc4T7wN/africanoCapoeira.png)
   Tené cuidado con el Brasilero Capoeira que pega mas que Tyson con la cantidad de patadas que tira.Ademas como es Brasilero no va a perder oportunidad
   para ROBARTE UNA COPA DEL MUNDO!
   
