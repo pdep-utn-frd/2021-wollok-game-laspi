@@ -26,7 +26,7 @@ Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte
   Ojo con el asteoride, si el Diegote se pega un palo contra eso lo vas a matar.
    
   2. ![](https://i.ibb.co/W3DpQ10/brasilero-Capoeira.png)
-  Tené cuidado con el Brasilero Capoeira que pega mas que Tyson con la cantidad de patadas que tira. Ademas como es Brasilero no va a perder oportunidad
+  Tené cuidado con el Brasilero Capoeira que pega mas que Tyson con la cantidad de patadas que tira. Además como es Brasilero no va a perder oportunidad
   para ROBARTE UNA COPA DEL MUNDO!
   
   3. ![](https://i.ibb.co/Wt3dV0F/extraterrestre.png)
