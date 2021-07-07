@@ -25,7 +25,7 @@ object fin inherits Visual(position = new Position(x = 8, y = 1)) {
 		if (!game.hasVisual(banderaArgentina)) {
 			game.addVisual(banderaArgentina)
 		}
-		//dolar.position(game.at(1, 1))
+		yerba.position(game.at(1, 1))
 		extraterrestre.position(game.at(9, 9))
 		bilardo.position(game.at(7, 7))
 		game.removeVisual(self)
@@ -42,7 +42,7 @@ object fin inherits Visual(position = new Position(x = 8, y = 1)) {
 
 }
 
-object pausa inherits Visual(position = new Position(x=0,y=0), image = "pause.png") { 
+object pausa inherits Visual(position = new Position(x=0,y=0), image = "pausa.png") { 
 	method inicio() {
 		diego.estatico(true)
 		diego.caer()
