@@ -8,7 +8,7 @@ object fin inherits Visual(position = new Position(x = 5, y = 3)) {
 		if (diego.yerba() >= 999) 
 			return 'campeon.png' 
 		else 
-			return 'cebollita.png'
+			return 'cebollita.jpg'
 	}
 
 	method continuar() {
