@@ -166,7 +166,7 @@ object bilardo inherits Visual (position = new Position(x = 5, y = 9), image = "
 			diego.copas(diego.copas() + 0.5)
 			game.say(self, "Ganaste una copa del mundo !!")
 		} else {
-			game.say(self, "No podes tener mas de 3 copas del mundo")
+			game.say(self, "No podes tener mas de 3 copas")
 		}
 		self.mover()
 	}

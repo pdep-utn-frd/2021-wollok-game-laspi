@@ -28,7 +28,7 @@ object config {
 				cometa.direccion("Der")
 			}
 		}
-		keyboard.y().onPressDo{ if (game.hasVisual(fin)) {
+		keyboard.s().onPressDo{ if (game.hasVisual(fin)) {
 				fin.continuar()
 			}
 		}
