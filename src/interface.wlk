@@ -64,13 +64,13 @@ object copa inherits Visual(position = new Position(x=22,y=12)) {
 }
 
 
-object unidad inherits Visual (position = new Position(x = 24, y = 11)) {
+object unidad inherits Visual (position = new Position(x = 24, y = 10)) {
 
 	override method image() = (diego.yerba() - (diego.yerba() / 10).truncate(0) * 10).toString() + ".png"
 
 }
 
-object decena inherits Visual (position = new Position(x = 23, y = 11)) {
+object decena inherits Visual (position = new Position(x = 23, y = 10)) {
 
 	override method image() = if (diego.yerba() >= 100) {
 		(((diego.yerba() - centena.c() * 100) / 10).truncate(0)).toString() + ".png"
@@ -80,7 +80,7 @@ object decena inherits Visual (position = new Position(x = 23, y = 11)) {
 
 }
 
-object centena inherits Visual (position = new Position(x = 22, y = 11)) {
+object centena inherits Visual (position = new Position(x = 22, y = 10)) {
 
 	override method image() = self.c().toString() +	".png"
 
@@ -88,4 +88,4 @@ object centena inherits Visual (position = new Position(x = 22, y = 11)) {
 
 }
 
-const logoYerba = new Visual(position = new Position(x=21,y=11), image = "logoYerba.png")
+const logoYerba = new Visual(position = new Position(x=20,y=10), image = "logoYerba.png")
