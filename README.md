@@ -5,11 +5,11 @@
 
 ### Introducción
 La agencia de inteligencia junto con cientificos del CONICET buscan realizar pruebas para llevar al hombre al espacio.
-El elegido fue un astronauta llamado Diego y debido a la deficiente tecnologia Argentina nuestro amigo se quedó varado en un planeta desconocido
+El elegido fue un astronauta llamado Diego y debido a la deficiente tecnologia Argentina nuestro amigo se quedó varado en un planeta desconocido. 
 Para sobrevivir y ganar, Diego tiene que JUNTAR YERBA MATE debido a que es su "fuente de energia", cuantos mas paquetes junte mejor !
 La desventaja es que Diego no está solo, aparecen una serie de personajes que pueden beneficiarlo , como otros que buscan perjudicarlo. 
 Si acompañas a Diego a juntar la mayor cantidad de paquetes de yerba posibles lo ayudas a volver a la Tierra sino, si te roban todas
-LAS COMPAS DEL MUNDO, nuestro amigo quedará perdido en el espacio.
+LAS COPAS DEL MUNDO, nuestro amigo quedará perdido en el espacio.
 Adelante, probá salvar al Diegote de este viaje cósmico, hacer que vuelva a la Tierra y demandar 
 a los que hicieron el cohete trucho que lo dejó varado. 
 Recordá mantener tu Argentinidad al palo para ganar, juntá toda la yerba que puedas y evitá
