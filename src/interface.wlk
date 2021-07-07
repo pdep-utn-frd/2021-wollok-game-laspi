@@ -63,6 +63,7 @@ object copa inherits Visual(position = new Position(x=22,y=12)) {
 
 }
 
+
 object unidad inherits Visual (position = new Position(x = 24, y = 11)) {
 
 	override method image() = (diego.yerba() - (diego.yerba() / 10).truncate(0) * 10).toString() + ".png"
