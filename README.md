@@ -17,7 +17,7 @@ que te roben las COPAS DEL MUNDO !
 
 ### Instrucciones: 
 Mové al diegote con las flechas.
-Intentá juntar la mayor cantidad de paquetes de yerba ![](https://i.ibb.co/7K6dxRx/logo-Yerba.png")
+Intentá juntar la mayor cantidad de paquetes de yerba ![](https://i.ibb.co/sV7w3Bw/Yerba.png)
 Ojo con los personajes, recordá que algunos te perjudican y otros te ayudan en este viaje. 
 Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte una COPA DEL MUNDO para que sigas jugando.
 ![](https://i.ibb.co/xL17S8C/bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
