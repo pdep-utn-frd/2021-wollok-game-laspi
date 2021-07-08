@@ -38,8 +38,7 @@ Vas a reencontrarte ni mas ni menos que con el DOCTOR BILARDO, éste puede otorg
    
   4. ![](https://i.ibb.co/MBtYNvy/peter.png)
   Bueno, aca la cosa se pone turbia. No sabemos como llegó este inglés aca. No vamos a decir mucho a ver si nos denuncian al INADI pero no te acerques 
-  a PETER que está medio resentido por el gol con la mano y muy probable que te quiera ROBAR toda la yerba para hacer alguna especie de TE aburrido
-  que toman ellos!. 
+  a PETER que está medio resentido por el gol con la mano y muy probable que te quiera ROBAR LA COPA!
   
   5. ![](https://i.ibb.co/F0fH05C/sustancia.png)
   Como en todo planeta desconocido, tambien hay sustancias desconocidas. No toques nada verde (LA YERBA ES VERDE PERO NO APLICA) proveniente de ese mundo.
@@ -58,7 +57,8 @@ Vas a reencontrarte ni mas ni menos que con el DOCTOR BILARDO, éste puede otorg
   Tené cuidado con la bandera brasilera. No hay nada mas sucio para jugar que un brasilero. No dejes que te agarren de la camiseta y te retrasen 3 seg.
   
   9. ![](https://i.ibb.co/DKCr92r/bandera-Inglesa.png)
-  Si agarras esta bandera sos un VENDE PATRIA. Además no hay nada mas PIRATA que un inglés. Cuidado que no te robe UNA COPA!   
+  Si agarras esta bandera sos un VENDE PATRIA. Además no hay nada mas PIRATA que un inglés. Cuidado que no te roben los paquetes de YERBA para hacer
+  alguna especie de TE extraño que toman ellos. (señoritos ingleses)
   
   10. ![](https://i.ibb.co/MCTwfT8/ruggeri.png)
   No hay nada mejor que reencontrarte con tu SUBCAPITAN. Que grande el cabezón! Te da 100 paquetes de YERBA para que puedas volver a la Tierra. 

@@ -72,7 +72,7 @@ class QuitanYerba inherits Visual {
 
 const misterBean = new QuitanYerba(position = new Position(x = 22, y = 6), image = "misterBean.png")	//defino a mister bean y le asigno posicion 
 
-const peter = new QuitanYerba(position = new Position(x = 19, y = 8), image = "peter.png")	//defino a peter y le asigno posicion 
+const peter = new QuitanCopa(position = new Position(x = 19, y = 8), image = "peter.png")	//defino a peter y le asigno posicion 
 
 
 
@@ -172,7 +172,7 @@ class QuitanCopa inherits Visual {	//defino la clase quitar copa
 
 //personajes que me quitan copas
 
-const banderaInglesa = new QuitanCopa(position = new Position(x = 15, y = 11), image = "banderaInglesa.png") //defino bandera inglesa y le asigno posicion
+const banderaInglesa = new QuitanYerba(position = new Position(x = 15, y = 11), image = "banderaInglesa.png") //defino bandera inglesa y le asigno posicion
 
 const brasileroCapoeira = new QuitanCopa(position = new Position(x = 15, y = 5), image = "brasileroCapoeira.png")	//defino brasilero y le asigno posicion
 
