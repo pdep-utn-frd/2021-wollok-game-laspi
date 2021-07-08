@@ -64,13 +64,13 @@ object copa inherits Visual(position = new Position(x=22,y=12)) { 		//defino el 
 }
 
 
-object unidad inherits Visual (position = new Position(x = 24, y = 10)) {		//defino el objeto unidad, y le asigno posicion e imagen
+object unidad inherits Visual (position = new Position(x = 24, y = 11)) {		//defino el objeto unidad, y le asigno posicion e imagen
 
 	override method image() = (diego.yerba() - (diego.yerba() / 10).truncate(0) * 10).toString() + ".png"	
 
 }
 
-object decena inherits Visual (position = new Position(x = 23, y = 10)) {	//defino el objeto decena y le asigno posicion e imagen 
+object decena inherits Visual (position = new Position(x = 23, y = 11)) {	//defino el objeto decena y le asigno posicion e imagen 
 
 	override method image() = if (diego.yerba() >= 100) {
 		(((diego.yerba() - centena.c() * 100) / 10).truncate(0)).toString() + ".png"
@@ -80,7 +80,7 @@ object decena inherits Visual (position = new Position(x = 23, y = 10)) {	//defi
 
 }
 
-object centena inherits Visual (position = new Position(x = 22, y = 10)) {	//defino el objeto centena le asigno posicion e imagenes. Armo mi numero completo
+object centena inherits Visual (position = new Position(x = 22, y = 11)) {	//defino el objeto centena le asigno posicion e imagenes. Armo mi numero completo
 
 	override method image() = self.c().toString() +	".png"
 
@@ -88,6 +88,6 @@ object centena inherits Visual (position = new Position(x = 22, y = 10)) {	//def
 
 }
 
-const logoYerba = new Visual(position = new Position(x=20,y=10), image = "logoYerba.png")	//a mi numero de 3 digitos lo defino como la cantidad de yerba
+const logoYerba = new Visual(position = new Position(x=21,y=11), image = "logoYerba.png")	//a mi numero de 3 digitos lo defino como la cantidad de yerba
 //que juntan y le asigno una imagen y posicion . Para eso defino el logo yerba . La ubicacion de la imagen esta coordinada con posicion 
 //de la unidad, decena y centena 

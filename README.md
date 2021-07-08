@@ -4,22 +4,22 @@
 ![](https://i.ibb.co/zP4vTzM/diegote.png) ![](https://i.ibb.co/0mMhgrZ/mundo.jpg")
 
 ### Introducción
-La agencia de inteligencia junto con cientificos del CONICET buscan realizar pruebas para llevar al hombre al espacio.
-El elegido fue un astronauta llamado Diego y debido a la deficiente tecnologia Argentina nuestro amigo se quedó varado en un planeta desconocido. 
-Para sobrevivir y ganar, Diego tiene que JUNTAR YERBA MATE debido a que es su "fuente de energia", cuantos mas paquetes junte mejor !
-La desventaja es que Diego no está solo, aparecen una serie de personajes que pueden beneficiarlo , como otros que buscan perjudicarlo. 
-Si acompañas a Diego a juntar la mayor cantidad de paquetes de yerba posibles lo ayudas a volver a la Tierra sino, si te roban todas
+La agencia de inteligencia, junto con cientificos del CONICET buscan realizar pruebas para llevar al hombre al espacio.
+El elegido fue un astronauta llamado Diego y, debido a la deficiente tecnologia Argentina, nuestro amigo se quedó varado en un planeta desconocido. 
+Para sobrevivir y ganar, Diego tiene que JUNTAR YERBA MATE ya que es su "fuente de energia", cuantos mas paquetes junte mejor !
+Cada paquete de YERBA MATE te otorga 25 puntos.
+La desventaja es que Diego no está solo. Aparecen una serie de personajes que pueden beneficiarlo , como otros que buscan perjudicarlo. 
+Si acompañas a Diego a juntar la mayor cantidad de YERBA MATE posible lo ayudas a volver a la Tierra. En cambio, si dejas que te roban todas
 LAS COPAS DEL MUNDO, nuestro amigo quedará perdido en el espacio.
-Adelante, probá salvar al Diegote de este viaje cósmico, hacer que vuelva a la Tierra y demandar 
+Adelante, probá salvar al Diegote de este viaje cósmico, hacer que vuelva a la Tierra, y asi, poder demandar 
 a los que hicieron el cohete trucho que lo dejó varado. 
-Recordá mantener tu Argentinidad al palo para ganar, juntá toda la yerba que puedas y evitá
-que te roben las COPAS DEL MUNDO !
+Recordá mantener tu Argentinidad al palo para ganar, juntá toda la yerba que puedas y evitá que te roben las COPAS DEL MUNDO !
 
 ### Instrucciones: 
-Mové al diegote con las flechas.
+Mové al diegote con las flechas de tu teclado
 Intentá juntar la mayor cantidad de paquetes de yerba ![](https://i.ibb.co/sV7w3Bw/Yerba.png)
 Ojo con los personajes, recordá que algunos te perjudican y otros te ayudan en este viaje. 
-Vas a reencontrarte ni mas ni menos con el DOCTOR BILARDO, éste puede otorgarte una COPA DEL MUNDO para que sigas jugando.
+Vas a reencontrarte ni mas ni menos que con el DOCTOR BILARDO, éste puede otorgarte una COPA DEL MUNDO para que sigas jugando.
 ![](https://i.ibb.co/xL17S8C/bilardo.png)(cantidad maxima de copas = 3). Que mas querés, sino el juego seria re facil! (ya se somos ARG) 
 
 ### Personajes:
