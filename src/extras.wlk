@@ -4,15 +4,15 @@ import diego.*
 
 class Visual {		//defino la clase visual 
 
-	var property position
+	var property position		//llamo a la posicion e imagen del personaje 
 	var property image
 
-	method teEncontro() {
+	method teEncontro() {		//defino el metodo si ese personaje me encuentra 
 	}
 
 	method mover() {
 		const x = 1.randomUpTo(game.width()).truncate(0)
-		const y = 1.randomUpTo(game.height() - 1).truncate(0)
+		const y = 1.randomUpTo(game.height() - 1).truncate(0) 
 		position = game.at(x, y)
 	}
 
