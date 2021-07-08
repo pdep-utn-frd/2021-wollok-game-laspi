@@ -7,7 +7,7 @@
 La agencia de inteligencia, junto con cientificos del CONICET buscan realizar pruebas para llevar al hombre al espacio.
 El elegido fue un astronauta llamado Diego y, debido a la deficiente tecnologia Argentina, nuestro amigo se quedó varado en un planeta desconocido. 
 Para sobrevivir y ganar, Diego tiene que JUNTAR YERBA MATE ya que es su "fuente de energia", cuantos mas paquetes junte mejor !
-Cada paquete de YERBA MATE te otorga 25 puntos.
+Cada paquete de YERBA MATE te otorga 25 puntos. Podes juntar un total de 500 para ganar.
 La desventaja es que Diego no está solo. Aparecen una serie de personajes que pueden beneficiarlo , como otros que buscan perjudicarlo. 
 Si acompañas a Diego a juntar la mayor cantidad de YERBA MATE posible lo ayudas a volver a la Tierra. En cambio, si dejas que te roban todas
 LAS COPAS DEL MUNDO, nuestro amigo quedará perdido en el espacio.
