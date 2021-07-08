@@ -115,7 +115,7 @@ class Paralizador inherits Visual {
 	override method teEncontro() {		//defino el metodo encontrar , si me encuentro con un personaje que me paraliza 
 		diego.estatico(true)
 		game.schedule(tiempo, { diego.estatico(false)}) 	//analizo el tiempo y dejo a diego estatico 
-		game.say(self, "cuidado! la sustancia te produce cansancio perdes 2 seg")	//mensaje que arroja la piedra
+		game.say(self, "cuidado! la roca te produce cansancio")	//mensaje que arroja la piedra
 	}
 
 }
@@ -194,7 +194,7 @@ object bilardo inherits Visual (position = new Position(x = 5, y = 9), image = "
 			diego.copas(diego.copas() + 1) //sumo las copas de a una 
 			game.say(self, "Ganaste una copa del mundo !!")	//me avisa bilardo que gane una copa 
 		} else {
-			game.say(self, "No podes tener mas de 3 copas")	//si tengo 3 copas me dice que no puede darme otra 
+			game.say(self, "No podes tener mas de 3 copas pibe")	//si tengo 3 copas me dice que no puede darme otra 
 		}
 		self.mover()
 	}
