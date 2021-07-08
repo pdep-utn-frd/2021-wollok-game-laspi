@@ -160,7 +160,7 @@ class QuitanCopa inherits Visual {	//defino la clase quitar copa
 
 	method quitarCopa() {		//defino el metodo quitar copa 
 		diego.copas(diego.copas() - 1)	//resto las copas de 1
-		game.say(self, "PERDISTE UNA COPA, ESTA COPA ES MIA !") //cualquier personaje que me quite la copa mandará este mensaje 
+		game.say(self, "Esta copa es mia!!") //cualquier personaje que me quite la copa mandará este mensaje 
 		if (diego.copas() == 0) {
 			game.removeTickEvent("GRAVEDAD")
 			game.addVisual(fin)
