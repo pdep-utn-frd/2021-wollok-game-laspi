@@ -5,7 +5,7 @@ import extras.*
 object fin inherits Visual(position = new Position(x = 5, y = 3)) {	//objeto fin del juego , establezco la posicion de la imagen 
 
 	override method image() {		//si diego junta 599 paquetes de yerba gana , sino es un cebollita 
-		if (diego.yerba() >= 599) 
+		if (diego.yerba() >= 500) 
 			return 'campeon.png' 	//imagen de capeon 
 		else 
 			return 'cebollita.jpg' 	//imagen de cebollita 
