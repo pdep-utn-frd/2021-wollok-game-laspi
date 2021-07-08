@@ -1,19 +1,19 @@
-import wollok.game.*
-import diego.*
-import interface.*
-import extras.*
-import config.*
+import wollok.game.*	//importo los modulos correspondientes para poder ejecutar el juego
+import diego.*		//el modulo me especifica como se mueve diego y las caracteristicas propias del personaje
+import interface.*	//características propias de mi ambiente de juego
+import extras.*		//especifica las clases donde provienen las funcionalidades, perder yerba, ganar copas, etc etc 
+import config.*		//configuración del juego, teclas, sonido ambiente. 
 
-program diegoGame {
+program diegoGame { 		//defino el programa principal
 		// Pantalla
 	game.title('El Diegote y Un Viaje Cósmico')
 	game.width(27)
 	game.height(13)
-	game.boardGround("mundo.png")
+	game.boardGround("mundo.png")	//llama a la imagen de mi universo, me permite colocar el fondo
 		// Personajes
-	game.addVisual(diego)
-	game.showAttributes(diego)
-	game.addVisual(copa)
+	game.addVisual(diego) 	//permite visualizar el personaje. Llamar a la imagen
+	game.showAttributes(diego)	//permite darle atributos como moverse entre otras cosas
+	game.addVisual(copa) 
 	game.addVisual(logoYerba)
 	game.addVisual(unidad)
 	game.addVisual(decena)
@@ -35,7 +35,7 @@ program diegoGame {
 	game.addVisual(messi)
 	game.addVisual(balonOro)
 		// Configuraciones
-	config.configuracionDeTeclas()
-	config.colisiones()
-	game.start()
+	config.configuracionDeTeclas()	//llama a la configuración de teclas
+	config.colisiones()	//llama a la configuración de las colisiones
+	game.start()	//inicio del juego
 }
