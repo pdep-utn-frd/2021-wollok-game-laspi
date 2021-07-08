@@ -28,12 +28,12 @@ class DanYerba inherits Visual {		//defino la clase que me permite ganar paquete
 	}
 
 	method darYerba() {
-		diego.yerba((diego.yerba() + self.yerbaQueLeOtorga()).min(500))		//metodo que me da yerba , puedo juntar hasta 500
+		diego.yerba((diego.yerba() + self.yerbaQueLeOtorga()).min(200))		//metodo que me da yerba , puedo juntar hasta 500
 		game.removeVisual(self)
 	}
 
 	method comprobarSiGana() {		//metodo comprobar si gana con el total de paquetes de yerba juntados
-		if ((diego.yerba() + self.yerbaQueLeOtorga()) >= 500) {
+		if ((diego.yerba() + self.yerbaQueLeOtorga()) >= 200) {
 			fin.finDelJuego()		//si cumple , fin del juego
 		}
 	}
