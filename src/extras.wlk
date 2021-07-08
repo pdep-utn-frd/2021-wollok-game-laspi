@@ -93,7 +93,7 @@ object asteroide inherits Mortal  {		//defino asteoride que llama a mortal
 
 	override method position() = new Position(x = diego.position().x().min(25), y = 0)	//le asigno posicion 
 
-	override method image() = "asteroide" + direccion + ".png"		//le asigno imagen 
+	override method image() = "asteroide" + direccion + ".png"		//le asigno imagen y toma la variable direccion para que se mueva junto con diego
 }
 
 
