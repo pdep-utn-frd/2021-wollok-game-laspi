@@ -42,7 +42,7 @@ object fin inherits Visual(position = new Position(x = 5, y = 3)) {	//objeto fin
 
 }
 
-object pausa inherits Visual(position = new Position(x=0,y=0), image = "pausa.png") { //objeto que me establece la pausa del juego y la posicion de la imagen
+object pausa inherits Visual(position = new Position(x=5,y=3), image = "pausa.jpg") { //objeto que me establece la pausa del juego y la posicion de la imagen
 	method inicio() {
 		diego.estatico(true)		//inicio de la pausa tiene que estar afectado por las propiedades del personaje 
 		diego.caer()
