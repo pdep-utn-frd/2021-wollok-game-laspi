@@ -1,0 +1,46 @@
+//import diegoGame.*
+import diego.*
+import interface.*
+import extras.*
+import config.*
+
+
+describe "Test de Diegote Y Un Viaje Cosmico"{
+	
+	
+	//fixture{
+		//ronaldino.teEncontro()
+		//bilardo.teEncontro()
+		//messi.darYerba()
+		
+//	}
+	test "El Diego choca contra un extraterrestre se queda sin yerba"{
+		diego.yerba(100)
+		extraterrestre.teEncontro()
+		assert.equals(0,diego.yerba())
+	}
+	
+	
+	test "Diego cambia de posicion"{
+		sustancia.teEncontro()
+		assert.that(diego.estatico())
+			
+	}
+	
+	test "dfdf"{
+		diego.yerba(190)
+		assert.equals('cebollita.jpg',fin.image())
+	}
+	
+	test "Si Diego tiene 200 paquetes de yerba, el jugador gana y el juego muestra la imagen de diego campeon"{
+		diego.yerba(200)
+		assert.equals('campeon.png',fin.image())
+	}
+	
+	test "rugeri le otorga 100 paquetes de yerba a diego"{
+		ruggeri.yerbaQueLeOtorga()
+		assert.equals(100,ruggeri.yerbaQueLeOtorga())
+	}
+}
+
+
