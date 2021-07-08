@@ -24,7 +24,6 @@ program diegoGame { 		//defino el programa principal
 	game.addVisual(asteroide)
 	game.addVisual(extraterrestre)
 	game.addVisual(brasileroCapoeira)
-	game.addVisual(cometa)
 	game.addVisual(bilardo)
 	game.addVisual(sustancia)
 	game.addVisual(banderaInglesa)
