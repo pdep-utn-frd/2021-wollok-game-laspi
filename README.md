@@ -38,7 +38,8 @@ Vas a reencontrarte ni mas ni menos que con el DOCTOR BILARDO, éste puede otorg
    
   4. ![](https://i.ibb.co/MBtYNvy/peter.png)
   Bueno, aca la cosa se pone turbia. No sabemos como llegó este inglés aca. No vamos a decir mucho a ver si nos denuncian al INADI pero no te acerques 
-  a PETER que está medio resentido por el gol con la mano y muy probable que te quiera ROBAR LA COPA DEL MUNDO!. 
+  a PETER que está medio resentido por el gol con la mano y muy probable que te quiera ROBAR toda la yerba para hacer alguna especie de TE aburrido
+  que toman ellos!. 
   
   5. ![](https://i.ibb.co/F0fH05C/sustancia.png)
   Como en todo planeta desconocido, tambien hay sustancias desconocidas. No toques nada verde (LA YERBA ES VERDE PERO NO APLICA) proveniente de ese mundo.
