@@ -63,7 +63,7 @@ class QuitanYerba inherits Visual {
 
 	method quitarYerba() {	//igual que al dar yerba, defino el metodo que me quita los paquetes
 		diego.yerba((diego.yerba() - self.yerbaQueLeQuita()).max(0))
-		game.say(self, "Voy a esconder estos paquetes de yerba")
+		game.say(self, "Voy a esconder los paquetes de yerba jaja")
 	}
 
 }
