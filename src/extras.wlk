@@ -74,7 +74,11 @@ const misterBean = new QuitanYerba(position = new Position(x = 22, y = 6), image
 
 const peter = new QuitanYerba(position = new Position(x = 19, y = 8), image = "peter.png")	//defino a peter y le asigno posicion 
 
-class Mortal inherits Visual {		//defino la clase mortal que es la que evalua la direccion tanto del asteroide como del cometa 
+
+
+//defino la clase mortal que es la que evalua la direccion tanto del asteroide como del cometa 
+
+class Mortal inherits Visual {		
 	var property direccion = "Der"
 	
 	override method teEncontro() {		//si choco contra eso se termina el juego
@@ -82,6 +86,8 @@ class Mortal inherits Visual {		//defino la clase mortal que es la que evalua la
 	}
 
 }
+
+//personajes que me hacen perder !
 
 object asteroide inherits Mortal  {		//defino asteoride que llama a mortal 
 
@@ -99,7 +105,10 @@ object cometa inherits Mortal {		//defino la clase cometa que llama a mortal par
 }
 
 
-class Paralizador inherits Visual {		//defino la clase paralizador 
+
+//defino la clase paralizador 
+
+class Paralizador inherits Visual {		
 
 	const tiempo	//evalua la constante tiempo ya que depende de cuanto tiempo debo estar paralizado
 
@@ -128,6 +137,8 @@ class Paralizador2 inherits Visual {		//clase paralizador2 pero funciona con la 
 const banderaBrasilera = new Paralizador2(position = new Position(x = 5, y = 4), image = "banderaBrasilera.png", tiempo = 3000) //defino bandera brasilera
 
 const sustancia = new Paralizador(position = new Position(x = 8, y = 2), image = "sustancia.png", tiempo = 2000) 	//defino la sustancia y la posicion 
+
+
 
 //defino el objeto yerba , la posicion y le asigno una imagen 
 

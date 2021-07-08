@@ -16,7 +16,7 @@ object diego inherits Visual (position = new Position(x = 10, y = 10)) {	//defin
 	}
 
 	method colisionarCon(personajeQueDaYerba) {
-		yerba = (yerba + personajeQueDaYerba.yerbaQueLeOtorga()).min(999) //metodo que define con quien colisiona diego para conseguir yerba
+		yerba = (yerba + personajeQueDaYerba.yerbaQueLeOtorga()).min(500) //metodo que define con quien colisiona diego para conseguir yerba
 	}
 
 	method caer() {
