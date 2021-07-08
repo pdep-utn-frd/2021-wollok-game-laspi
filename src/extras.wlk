@@ -98,7 +98,7 @@ class Paralizador inherits Visual {
 	override method teEncontro() {
 		diego.estatico(true)
 		game.schedule(tiempo, { diego.estatico(false)})
-		game.say(self, "cuidado! la sustancia te produce cansancio perdes 3 seg")
+		game.say(self, "cuidado! la sustancia te produce cansancio perdes 2 seg")
 	}
 
 }
@@ -110,7 +110,7 @@ class Paralizador2 inherits Visual {
 	override method teEncontro() {
 		diego.estatico(true)
 		game.schedule(tiempo, { diego.estatico(false)})
-		game.say(self, "Agarraste la bandera Brasilera perdes 2seg por traición")
+		game.say(self, "te agarraron de la camiseta, te atrasan 3 seg")
 	}
 
 }

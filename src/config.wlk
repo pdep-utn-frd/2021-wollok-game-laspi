@@ -16,14 +16,12 @@ object config {
 		}
 		keyboard.left().onPressDo{ if (diego.moverse()) {
 				diego.move(diego.position().left(1))
-				diego.direccion("Izq")
 				asteroide.direccion("Izq")
 				cometa.direccion("Izq")
 			}
 		}
 		keyboard.right().onPressDo{ if (diego.moverse()) {
 				diego.move(diego.position().right(1))
-				diego.direccion("Der")
 				asteroide.direccion("Der")
 				cometa.direccion("Der")
 			}

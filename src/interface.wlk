@@ -5,7 +5,7 @@ import extras.*
 object fin inherits Visual(position = new Position(x = 5, y = 3)) {
 
 	override method image() {
-		if (diego.yerba() >= 999) 
+		if (diego.yerba() >= 599) 
 			return 'campeon.png' 
 		else 
 			return 'cebollita.jpg'
