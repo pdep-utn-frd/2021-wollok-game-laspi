@@ -1,22 +1,22 @@
-import wollok.game.*
+import wollok.game.*	//me permite trabajar con las librerias de wollok game
 import interface.*
 import extras.*
 
-object diego inherits Visual (position = new Position(x = 10, y = 10)) {
+object diego inherits Visual (position = new Position(x = 10, y = 10)) {	//defino el objeto Diego y establezco su posición
 
-	var property yerba = 0
-	var property copas = 3
-	var property estatico = false
+	var property yerba = 0		//variables propias de Diego yerba que junta
+	var property copas = 3		//copas que tiene, similitud con vidas
+	var property estatico = false	//diego no es estatico sino que se va a mover por el universo
 
 	
-	override method image() = "diego"  + ".png" 
+	override method image() = "diego"  + ".png" //le asigno una imagen a diego
 	
-	method move(nuevaPosicion) {
+	method move(nuevaPosicion) {	//metodo que define la posicion de diego
 		self.position(nuevaPosicion)
 	}
 
 	method colisionarCon(personajeQueDaYerba) {
-		yerba = (yerba + personajeQueDaYerba.yerbaQueLeOtorga()).min(999)
+		yerba = (yerba + personajeQueDaYerba.yerbaQueLeOtorga()).min(999) //metodo que define con quien colisiona diego para conseguir yerba
 	}
 
 	method caer() {
@@ -25,7 +25,7 @@ object diego inherits Visual (position = new Position(x = 10, y = 10)) {
 		}
 	}
 	
-	method moverse(){
+	method moverse(){	
 		return !estatico and !game.hasVisual(fin)
 	}
 }
