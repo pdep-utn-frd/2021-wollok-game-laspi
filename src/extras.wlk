@@ -208,7 +208,8 @@ object bilardo inherits Visual (position = new Position(x = 5, y = 9), image = "
 object extraterrestre inherits Visual (position = new Position(x = 9, y = 8), image = "extraterrestre.png") { 	//defino el objeto extraterrestre 
 
 	override method teEncontro() {		//si me encuentro con el extraterrestre 
-		diego.yerba(0)		//me roba todos los paquetes de yerba 
+		diego.yerba(0)
+		game.say(self, "mm que es eso? ET querer yerba")		
 	}
 
 }
