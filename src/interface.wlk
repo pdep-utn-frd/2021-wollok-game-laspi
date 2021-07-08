@@ -6,7 +6,7 @@ object fin inherits Visual(position = new Position(x = 5, y = 3)) {	//objeto fin
 
 	override method image() {		//si diego junta 599 paquetes de yerba gana , sino es un cebollita 
 		if (diego.yerba() >= 200) 
-			return 'campeon.png' 	//imagen de capeon 
+			return 'campeon.png' 	//imagen de campeon 
 		else 
 			return 'cebollita.jpg' 	//imagen de cebollita 
 	}
