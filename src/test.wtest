@@ -1,4 +1,4 @@
-//import diegoGame.*
+
 import diego.*
 import interface.*
 import extras.*
@@ -8,12 +8,6 @@ import config.*
 describe "Test de Diegote Y Un Viaje Cosmico"{
 	
 	
-	//fixture{
-		//ronaldino.teEncontro()
-		//bilardo.teEncontro()
-		//messi.darYerba()
-		
-//	}
 	test "El Diego choca contra un extraterrestre se queda sin yerba"{
 		diego.yerba(100)
 		extraterrestre.teEncontro()
@@ -27,7 +21,7 @@ describe "Test de Diegote Y Un Viaje Cosmico"{
 			
 	}
 	
-	test "dfdf"{
+	test "Si diego tiene menos de 200 yerbas devuelve la imagen de cebollita"{
 		diego.yerba(190)
 		assert.equals('cebollita.jpg',fin.image())
 	}
