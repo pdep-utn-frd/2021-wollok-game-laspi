@@ -12,7 +12,7 @@ object fin inherits Visual(position = new Position(x = 5, y = 3)) {	//objeto fin
 	}
 
 	method continuar() {		//defino el metodo para poder continuar con el juego 
-		game.onTick(500, "GRAVEDAD", {diego.caer()})	//diego afectado por la gravedad
+		game.onTick(500, "GRAVEDAD", {diego.caer()})
 		diego.copas(3)	//variables propias de diego con que inicializa - 3 copas
 		diego.yerba(0)	//yerba en 0 paquetes
 		diego.position(game.at(10, 10))		//la posicion inicial  de diego
@@ -35,8 +35,8 @@ object fin inherits Visual(position = new Position(x = 5, y = 3)) {	//objeto fin
 		game.schedule(900, {game.stop()})
 	}
 
-	method finDelJuego() {		//fin del juego 
-		game.removeTickEvent("GRAVEDAD")
+	method finDelJuego() {	//fin del juego
+		game.removeTickEvent("GRAVEDAD")	 
 		game.addVisual(self)
 	}
 

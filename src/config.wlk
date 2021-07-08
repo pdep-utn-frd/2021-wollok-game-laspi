@@ -17,13 +17,13 @@ object config {		//defino el objeto de configuracion
 		keyboard.left().onPressDo{ if (diego.moverse()) {	//izquierda teclado
 				diego.move(diego.position().left(1))
 				asteroide.direccion("Izq")
-				cometa.direccion("Izq")
+				
 			}
 		}
 		keyboard.right().onPressDo{ if (diego.moverse()) {	//derecha teclado
 				diego.move(diego.position().right(1))
 				asteroide.direccion("Der")
-				cometa.direccion("Der")
+				
 			}
 		}
 		keyboard.s().onPressDo{ if (game.hasVisual(fin)) {	//para continuar el juego apretar S
@@ -42,7 +42,7 @@ object config {		//defino el objeto de configuracion
 
 	method colisiones() {		//metodo que me define las colisiones 
 		game.onCollideDo(diego, { unPersonaje => unPersonaje.teEncontro()}) //si me encuentro con un personaje
-		game.onTick(500, "GRAVEDAD", {diego.caer()}) //diego esta afectado por la gravedad lo que hace que caiga 
+		game.onTick(500, "GRAVEDAD", {diego.caer()})
 		game.schedule(1000, { game.sound("musicaUniverso.mp3").play() //defino la musica de mi ambiente o universo
 		game.onTick(149000, "musica", { game.sound("musicaUniverso.mp3").play()})
 		})

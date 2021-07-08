@@ -87,7 +87,7 @@ class Mortal inherits Visual {
 
 }
 
-//personajes que me hacen perder !
+//personaje que me hace perder !
 
 object asteroide inherits Mortal  {		//defino asteoride que llama a mortal 
 
@@ -95,15 +95,6 @@ object asteroide inherits Mortal  {		//defino asteoride que llama a mortal
 
 	override method image() = "asteroide" + direccion + ".png"		//le asigno imagen 
 }
-
-object cometa inherits Mortal {		//defino la clase cometa que llama a mortal para finalizar el juego 
-
-	override method position() = new Position(x = diego.position().x().min(24), y = 12)	//le asigno posicion 	
-
-	override method image() = "cometa" + direccion + ".png"	//le asigno imagen y variable direccion que me permite que el cometa vaya y venga. 
-	//define derecha e izquierda por la misma razon cuando diego se mueve tanto para la derecha como para la izquierda el objeto hace lo mismo
-}
-
 
 
 //defino la clase paralizador 

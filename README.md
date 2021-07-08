@@ -72,10 +72,7 @@ Vas a reencontrarte ni mas ni menos que con el DOCTOR BILARDO, éste puede otorg
   Bueno es hora que ganemos un par de premios. Merecido lo tiene cualquier Argentino y mas el diegote (re orgullosos). 
   El balon de oro te otorga 50 paquetes de YERBA 
   
-  13. ![](https://i.ibb.co/0DkcHTX/cometa.png)
-  Cuidado con el cometa, si el Diegote choca contra eso, adios idolo y no vas a querer que el cabezón Ruggeri te insulte por pecho. 
-  
-  14. ![](https://i.ibb.co/F4j9GY9/mister-Bean.png)
+  13. ![](https://i.ibb.co/F4j9GY9/mister-Bean.png)
   Bueno esto ya se tornó un poco raro y no sabemos como este sujeto llegó aca. Si bien eso no es lo importante, tené cuidado con MrBean ya que es un poco
   fanático del futbol y no dudará de hacerte un par de bromas pesadas como quitarte YERBA para que te cueste volver. (típico humor inglés)
   
