@@ -134,7 +134,7 @@ class Paralizador2 inherits Visual {		//clase paralizador2 pero funciona con la 
 
 //personajes que me paralizan 
 
-const banderaBrasilera = new Paralizador2(position = new Position(x = 5, y = 4), image = "banderaBrasilera.png", tiempo = 3000) //defino bandera brasilera
+const banderaBrasilera = new Paralizador2(position = new Position(x = 4, y = 4), image = "banderaBrasilera.png", tiempo = 3000) //defino bandera brasilera
 
 const sustancia = new Paralizador(position = new Position(x = 8, y = 2), image = "sustancia.png", tiempo = 2000) 	//defino la sustancia y la posicion 
 
@@ -174,9 +174,9 @@ class QuitanCopa inherits Visual {	//defino la clase quitar copa
 
 const banderaInglesa = new QuitanYerba(position = new Position(x = 15, y = 11), image = "banderaInglesa.png") //defino bandera inglesa y le asigno posicion
 
-const brasileroCapoeira = new QuitanCopa(position = new Position(x = 15, y = 5), image = "brasileroCapoeira.png")	//defino brasilero y le asigno posicion
+const brasileroCapoeira = new QuitanCopa(position = new Position(x = 15, y = 6), image = "brasileroCapoeira.png")	//defino brasilero y le asigno posicion
 
-object ronaldino inherits QuitanCopa (position = new Position(x = 13, y = 9), image = "ronaldino.png") {	//defino el objeto ronaldino y le asigno posicion
+object ronaldino inherits QuitanCopa (position = new Position(x = 13, y = 4), image = "ronaldino.png") {	//defino el objeto ronaldino y le asigno posicion
 
 	override method teEncontro() {
 		self.quitarCopa()
@@ -187,7 +187,7 @@ object ronaldino inherits QuitanCopa (position = new Position(x = 13, y = 9), im
 
 //defino objeto bilardo y le asigno posicion e imagen 
 
-object bilardo inherits Visual (position = new Position(x = 5, y = 9), image = "bilardo.png") {
+object bilardo inherits Visual (position = new Position(x = 7, y = 10), image = "bilardo.png") {
 
 	method darCopa() {	//bilardo me da una copa por eso defino el metodo dar copa
 		if (diego.copas() < 3) {	//si tengo menos de 3 copas me la otorga 
