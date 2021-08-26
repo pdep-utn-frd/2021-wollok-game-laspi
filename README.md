@@ -11,9 +11,11 @@
  tenes que rescatar al personal que quedó atrapado y a la vez esquivar a los fantasmas que lo acechan.
  
 #Objetivo: 
+
 Rescatar a tu personal. Para hacerlo, tenes que hallar las llaves de las puertas e ir pasando de nivel. ¡OJO CON LOS FANTASMAS!
  
 #Instrucciones: 
+
 Movete con las flechitas para recorrer la sala en la que te encuentras. 
 Nivel 1: Primero, intentá escapar de la habitación que te apresa. Cuando consigas la llave se abrirá la puerta. (Sino no vas a poder ayudar a nadie)
 Nivel 2: Escucharás que pide auxilio tu coequiper y cirujano del hospital. Halla la llave y salvalo. 
