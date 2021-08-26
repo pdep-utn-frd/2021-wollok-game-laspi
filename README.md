@@ -3,9 +3,7 @@
 
 
 ### Información del Proyecto
-
-Alumnas: Mata Nuñez Nadia, Correa Florencia
-
+Alumnas : Mata Nadia , Correa Florencia
 Profesores: Spigariol Lucas, Bono Juan, Hilt Franco
 
 
