@@ -1,4 +1,4 @@
-##¡Hounted Hospital!
+# ¡Hounted Hospital!
  
  Bienvenidos a una nueva travesia. ¡Estas en problemas ! (Uff si , es un bajón que ya empecemos asi)
  Debido a un tsunami la ciudad quedó en un caos tremendo. (Algo asi como la falla de SAN ANDRES pero mas piola y creado en jueguito de computadoras)
@@ -10,19 +10,19 @@
  Sos doctor, y como jefe de departamento y miembro del programa de brigada de seguridad que lleva a cabo el hospital 
  tenes que rescatar al personal que quedó atrapado.A su vez, deberás esquivar a los fantasmas que acechan el edificio.
  
-##Objetivo: 
+# Objetivo: 
 
 Rescatar a tu personal. Para hacerlo, tenes que hallar las llaves de las puertas e ir pasando de nivel. ¡OJO CON LOS FANTASMAS!
  
-##Instrucciones: 
+# Instrucciones: 
 
 Movete con las flechitas para recorrer la sala en la que te encuentras. 
 
-# Nivel 1: Primero, intentá escapar de la habitación que te apresa.Cuando consigas la llave se abrirá la puerta. (Sino no vas a poder ayudar a nadie)
-# Nivel 2: Escucharás que pide auxilio tu coequiper y cirujano del hospital. Hallá la llave y salvalo. 
-# Nivel 3: En el siguiente nivel encontrarás a tu enfermera ayudante. 
-# Nivel 4: Con el tsunami verás que tu anestesista quedó atrapado en otra sala. ¡No te vallas sin él!
-# Nivel 5: Ayuda al personal de limpieza y sanitización 
+## Nivel 1: Primero, intentá escapar de la habitación que te apresa.Cuando consigas la llave se abrirá la puerta. (Sino no vas a poder ayudar a nadie)
+## Nivel 2: Escucharás que pide auxilio tu coequiper y cirujano del hospital. Hallá la llave y salvalo. 
+## Nivel 3: En el siguiente nivel encontrarás a tu enfermera ayudante. 
+## Nivel 4: Con el tsunami verás que tu anestesista quedó atrapado en otra sala. ¡No te vallas sin él!
+## Nivel 5: Ayuda al personal de limpieza y sanitización 
 
 
 
