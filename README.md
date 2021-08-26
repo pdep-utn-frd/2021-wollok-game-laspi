@@ -26,7 +26,7 @@ Nivel 5: Ayuda al personal de limpieza y sanitización
 
 ### Información del Proyecto
 
-Alumnas: Mata Nuñez Nadia, Correa Florencia
+Alumnas : Mata Nadia , Correa Florencia
 
 Profesores: Spigariol Lucas, Bono Juan, Hilt Franco
 
