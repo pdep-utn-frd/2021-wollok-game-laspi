@@ -29,7 +29,7 @@ Primero, intentá escapar de la habitación que te apresa.Cuando consigas la lla
 Nivel 2:![](https://i.ibb.co/5vrpnj8/doctor.png) 
 Escucharás que pide auxilio tu coequiper y doctor del hospital. Hallá la llave y salvalo. 
 
-Nivel 3:![]() 
+Nivel 3:![](https://i.ibb.co/5W3ZFYh/enfermera.png) 
 En este ultimo nivel (por ahora hasta que salga la version 2.0) encontrarás a tu enfermera ayudante. Ayuda a que salga del edificio.
 
 ![](https://i.ibb.co/PtHxPmm/win.png)
