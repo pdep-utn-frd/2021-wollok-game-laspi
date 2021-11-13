@@ -13,24 +13,22 @@
  
 ### Objetivo: 
 
+[](https://i.ibb.co/z2Hqf8t/fantasma1.png)
 Rescatar a tu personal. Para hacerlo, tenes que hallar las llaves de las puertas e ir pasando de nivel. ¡OJO CON LOS FANTASMAS!
 Dificultad: Cada vez los fantasmas se mueven mas rapido !!
-[](https://i.ibb.co/z2Hqf8t/fantasma1.png)
-
 
 ### Instrucciones y Personajes
 
 Movete con las flechitas para recorrer la sala en la que te encuentras. Intenta esquivar los fantasmas y hallar la llave de escape
 
-Nivel 1: Primero, intentá escapar de la habitación que te apresa.Cuando consigas la llave se abrirá la puerta. (Sino no vas a poder ayudar a nadie)
-![](https://i.ibb.co/BLb8JVk/cirujano-Baja1.png)
+Nivel 1:![](https://i.ibb.co/BLb8JVk/cirujano-Baja1.png)
+Primero, intentá escapar de la habitación que te apresa.Cuando consigas la llave se abrirá la puerta. (Sino no vas a poder ayudar a nadie)
 
-Nivel 2: Escucharás que pide auxilio tu coequiper y doctor del hospital. Hallá la llave y salvalo. 
-![](https://i.ibb.co/5vrpnj8/doctor.png)
+Nivel 2:![](https://i.ibb.co/5vrpnj8/doctor.png) 
+Escucharás que pide auxilio tu coequiper y doctor del hospital. Hallá la llave y salvalo. 
 
-Nivel 3: En el siguiente nivel encontrarás a tu enfermera ayudante. Ayuda a que salga del edificio.
-![]()
-
+Nivel 3:![]() 
+En el siguiente nivel encontrarás a tu enfermera ayudante. Ayuda a que salga del edificio.
 
 ### Información del Proyecto
 
