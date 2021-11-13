@@ -8,7 +8,7 @@
  Dentro del hospital escucharás ruidos y parece que está encantado. Encontrarás fantasmas que te harán perder el juego.
  
  Sos Cirujano, y como jefe de departamento y miembro del programa de brigada de seguridad que lleva a cabo el hospital 
- tenes que rescatar al personal que quedó atrapado.A su vez, deberás esquivar a los fantasmas que acechan el edificio.}
+ tenes que rescatar al personal que quedó atrapado.A su vez, deberás esquivar a los fantasmas que acechan el edificio.
  
  ![](https://i.ibb.co/Gx7kgLw/level1.png)
  
@@ -31,6 +31,8 @@ Escucharás que pide auxilio tu coequiper y doctor del hospital. Hallá la llave
 
 Nivel 3:![]() 
 En este ultimo nivel (por ahora hasta que salga la version 2.0) encontrarás a tu enfermera ayudante. Ayuda a que salga del edificio.
+
+![](https://i.ibb.co/PtHxPmm/win.png)
 
 ### Información del Proyecto
 
