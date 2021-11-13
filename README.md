@@ -21,10 +21,6 @@ Movete con las flechitas para recorrer la sala en la que te encuentras.
 ## Nivel 1: Primero, intentá escapar de la habitación que te apresa.Cuando consigas la llave se abrirá la puerta. (Sino no vas a poder ayudar a nadie)
 ## Nivel 2: Escucharás que pide auxilio tu coequiper y cirujano del hospital. Hallá la llave y salvalo. 
 ## Nivel 3: En el siguiente nivel encontrarás a tu enfermera ayudante. 
-## Nivel 4: Con el tsunami verás que tu anestesista quedó atrapado en otra sala. ¡No te vallas sin él!
-## Nivel 5: Ayuda al personal de limpieza y sanitización 
-
-
 
 
 ### Información del Proyecto
