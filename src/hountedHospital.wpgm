@@ -1,0 +1,9 @@
+import wollok.game.*
+import elementos.*
+import config.*
+
+program hauntedHospital{     
+
+	niveles.primerNivel()
+	game.start()
+} 
