@@ -14,7 +14,7 @@
  
 ### Objetivo: 
 
-[](https://i.ibb.co/z2Hqf8t/fantasma1.png)
+https://i.ibb.co/ZN8yNv8/gameOver.png
 Rescatar a tu personal. Para hacerlo, tenes que hallar las llaves de las puertas e ir pasando de nivel. ¡OJO CON LOS FANTASMAS!
 Dificultad: Cada vez los fantasmas se mueven mas rapido !!
 
