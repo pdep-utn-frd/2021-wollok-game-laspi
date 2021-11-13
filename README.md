@@ -13,6 +13,7 @@
 # Objetivo: 
 
 Rescatar a tu personal. Para hacerlo, tenes que hallar las llaves de las puertas e ir pasando de nivel. ¡OJO CON LOS FANTASMAS!
+Dificultad: Cada vez se mueven mas rapido !!
  
 # Instrucciones: 
 
