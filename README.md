@@ -1,5 +1,5 @@
 # ¡Hounted Hospital!
- 
+ ![](https://i.ibb.co/Gx7kgLw/level1.png)
  Bienvenidos a una nueva travesia. ¡Estas en problemas ! (Uff si , es un bajón que ya empecemos asi)
  Debido a un tsunami la ciudad quedó en un caos tremendo. (Algo asi como la falla de SAN ANDRES pero mas piola y creado en jueguito de computadoras)
  Muchos edificios quedaron abandonados y los rescatitas están buscando aquellas personas que se encuentran en problemas. 
@@ -7,21 +7,29 @@
  Algo muy loco y, que por alguna razón los creadores de este juego no saben explicar, es que esto se tornó un poco turbio y surrealista. 
  Dentro del hospital escucharás ruidos y parece que está encantado. Encontrarás fantasmas que te harán perder el juego.
  
- Sos doctor, y como jefe de departamento y miembro del programa de brigada de seguridad que lleva a cabo el hospital 
+ Sos Cirujano, y como jefe de departamento y miembro del programa de brigada de seguridad que lleva a cabo el hospital 
  tenes que rescatar al personal que quedó atrapado.A su vez, deberás esquivar a los fantasmas que acechan el edificio.
+
  
-# Objetivo: 
+### Objetivo: 
 
 Rescatar a tu personal. Para hacerlo, tenes que hallar las llaves de las puertas e ir pasando de nivel. ¡OJO CON LOS FANTASMAS!
-Dificultad: Cada vez se mueven mas rapido !!
- 
-# Instrucciones: 
+Dificultad: Cada vez los fantasmas se mueven mas rapido !!
+[](https://i.ibb.co/z2Hqf8t/fantasma1.png)
 
-Movete con las flechitas para recorrer la sala en la que te encuentras. 
 
-## Nivel 1: Primero, intentá escapar de la habitación que te apresa.Cuando consigas la llave se abrirá la puerta. (Sino no vas a poder ayudar a nadie)
-## Nivel 2: Escucharás que pide auxilio tu coequiper y cirujano del hospital. Hallá la llave y salvalo. 
-## Nivel 3: En el siguiente nivel encontrarás a tu enfermera ayudante. 
+### Instrucciones y Personajes
+
+Movete con las flechitas para recorrer la sala en la que te encuentras. Intenta esquivar los fantasmas y hallar la llave de escape
+
+Nivel 1: Primero, intentá escapar de la habitación que te apresa.Cuando consigas la llave se abrirá la puerta. (Sino no vas a poder ayudar a nadie)
+![](https://i.ibb.co/BLb8JVk/cirujano-Baja1.png)
+
+Nivel 2: Escucharás que pide auxilio tu coequiper y doctor del hospital. Hallá la llave y salvalo. 
+![](https://i.ibb.co/5vrpnj8/doctor.png)
+
+Nivel 3: En el siguiente nivel encontrarás a tu enfermera ayudante. Ayuda a que salga del edificio.
+![]()
 
 
 ### Información del Proyecto
