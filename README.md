@@ -1,5 +1,5 @@
 # ¡Hounted Hospital!
- ![](https://i.ibb.co/Gx7kgLw/level1.png)
+
  Bienvenidos a una nueva travesia. ¡Estas en problemas ! (Uff si , es un bajón que ya empecemos asi)
  Debido a un tsunami la ciudad quedó en un caos tremendo. (Algo asi como la falla de SAN ANDRES pero mas piola y creado en jueguito de computadoras)
  Muchos edificios quedaron abandonados y los rescatitas están buscando aquellas personas que se encuentran en problemas. 
@@ -8,8 +8,9 @@
  Dentro del hospital escucharás ruidos y parece que está encantado. Encontrarás fantasmas que te harán perder el juego.
  
  Sos Cirujano, y como jefe de departamento y miembro del programa de brigada de seguridad que lleva a cabo el hospital 
- tenes que rescatar al personal que quedó atrapado.A su vez, deberás esquivar a los fantasmas que acechan el edificio.
-
+ tenes que rescatar al personal que quedó atrapado.A su vez, deberás esquivar a los fantasmas que acechan el edificio.}
+ 
+ ![](https://i.ibb.co/Gx7kgLw/level1.png)
  
 ### Objetivo: 
 
