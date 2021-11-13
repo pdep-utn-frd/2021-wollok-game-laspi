@@ -30,7 +30,7 @@ Nivel 2:![](https://i.ibb.co/5vrpnj8/doctor.png)
 Escucharás que pide auxilio tu coequiper y doctor del hospital. Hallá la llave y salvalo. 
 
 Nivel 3:![]() 
-En el siguiente nivel encontrarás a tu enfermera ayudante. Ayuda a que salga del edificio.
+En este ultimo nivel (por ahora hasta que salga la version 2.0) encontrarás a tu enfermera ayudante. Ayuda a que salga del edificio.
 
 ### Información del Proyecto
 
