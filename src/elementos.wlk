@@ -137,7 +137,7 @@ method segundoNivel(){
 		}
 		
 		game.addVisual(fantasma1)
-		game.addVisual(llave2)
+		game.addVisual(llave3)
 		game.addVisual(fantasma2)
 		game.addVisual(fantasma3)
 		game.addVisual(enfermera)
@@ -221,7 +221,7 @@ object llave3 inherits Posiciones ( position = game.at(5,4)){
 	method consecuencia(){
 		game.removeVisual(self)
 		game.addVisual(puerta3)
-	}
+	}  
 }
 
 object ganaste inherits Posiciones ( position = game.at(2,1)){
