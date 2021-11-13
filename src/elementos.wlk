@@ -5,7 +5,7 @@ class Posiciones{
 	var property position
 }
 object cirujano inherits Posiciones( position = game.at(5,0)) {
-
+	
 	var property direccion = "Sube1"
 	
 	method image() = "cirujano" + direccion + ".png"
@@ -30,9 +30,19 @@ object puerta2 inherits Posiciones ( position = game.at(12,4)){
 	method image() = "puerta2.png"
 	
 	method consecuencia(){
-		ganaste.finDelJuego()
+			niveles.tercerNivel()
+	}
+}
+
+object puerta3 inherits Posiciones ( position = game.at(12,4)){
+	method image() = "puerta3.png"
+	
+	method consecuencia(){
+		
 		game.removeVisual(cirujano)
-		game.removeVisual(doctor)
+		game.removeVisual(enfermera)
+		ganaste.finDelJuego()
+
 	}
 }
 
@@ -45,8 +55,21 @@ object segundoNivel{
 	method position()=game.at(0,0)
 }
 
+object tercerNivel{
+	method image()="nivel3.png"
+	method position()=game.at(0,0)
+}
+
 object doctor inherits Posiciones(position=game.at(1,6)){
 	method image()="doctor.png"
+	
+	method consecuencia(){
+		self.position(game.at(12,3))
+	}
+}
+
+object enfermera inherits Posiciones(position=game.at(1,6)){
+	method image()="enfermera.png"
 	
 	method consecuencia(){
 		self.position(game.at(12,3))
@@ -89,6 +112,35 @@ method segundoNivel(){
 		game.addVisual(fantasma2)
 		game.addVisual(fantasma3)
 		game.addVisual(doctor)
+		
+		fantasma1.position(game.at(1,2))
+		fantasma2.position(game.at(3,4))
+		fantasma3.position(game.at(1,2))
+	
+		
+
+	config.colicionarCon()
+	config.configuracionDeTeclas()
+	}
+	
+	method tercerNivel(){
+	
+		game.clear()
+		game.width(13)
+		game.height(8)
+		game.ground("fondo.png")
+		game.addVisual(tercerNivel)
+		
+		if (!game.hasVisual(cirujano)){
+			game.addVisualCharacter(cirujano)
+			cirujano.position(game.at(1,4))
+		}
+		
+		game.addVisual(fantasma1)
+		game.addVisual(llave2)
+		game.addVisual(fantasma2)
+		game.addVisual(fantasma3)
+		game.addVisual(enfermera)
 		
 		fantasma1.position(game.at(1,2))
 		fantasma2.position(game.at(3,4))
@@ -161,6 +213,17 @@ object llave2 inherits Posiciones ( position = game.at(5,4)){
 		game.addVisual(puerta2)
 	}
 }
+
+object llave3 inherits Posiciones ( position = game.at(5,4)){
+	
+	method image() = "llave3.png"
+	
+	method consecuencia(){
+		game.removeVisual(self)
+		game.addVisual(puerta3)
+	}
+}
+
 object ganaste inherits Posiciones ( position = game.at(2,1)){
 	
 	method image() = "win.png"
@@ -242,6 +305,37 @@ object fin inherits Posiciones ( position = game.at(2,1)){
 		}
 		if (!game.hasVisual(doctor)){
 			game.addVisual(doctor)
+			doctor.position(game.at(1,6))
+		}
+		if (!game.hasVisual(fantasma1)){
+			game.addVisual(fantasma1)
+		}
+		if (!game.hasVisual(fantasma2)){
+			game.addVisual(fantasma2)
+		}
+		if (!game.hasVisual(fantasma3)){
+			game.addVisual(fantasma3)
+		}
+		
+		config.colicionarCon()
+		config.configuracionDeTeclas()
+	
+		game.onTick(1000, "movimiento",{ fantasma1.movete() })
+		game.onTick(500, "movimiento",{ fantasma2.movete() })
+		game.onTick(200, "movimiento", {fantasma3.movete() })
+	}
+	if (game.hasVisual(tercerNivel)){
+		
+		game.removeVisual(self)
+		if (!game.hasVisual(cirujano)){
+			game.addVisual(cirujano)
+			cirujano.position(game.at(5,1))
+		}
+		if (!game.hasVisual(llave3)){
+			game.addVisual(llave3)
+		}
+		if (!game.hasVisual(enfermera)){
+			game.addVisual(enfermera)
 			doctor.position(game.at(1,6))
 		}
 		if (!game.hasVisual(fantasma1)){
