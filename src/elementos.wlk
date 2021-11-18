@@ -34,7 +34,7 @@ object puerta2 inherits Posiciones ( position = game.at(12,4)){
 	}
 }
 
-object puerta3 inherits Posiciones ( position = game.at(12,4)){
+object puerta3 inherits Posiciones ( position = game.at(12,7)){
 	method image() = "puerta3.png"
 	
 	method consecuencia(){
@@ -72,7 +72,7 @@ object enfermera inherits Posiciones(position=game.at(1,6)){
 	method image()="enfermera.png"
 	
 	method consecuencia(){
-		self.position(game.at(12,3))
+		self.position(game.at(11,7))
 	}
 }
 object niveles{
@@ -144,7 +144,7 @@ method segundoNivel(){
 		
 		fantasma1.position(game.at(1,2))
 		fantasma2.position(game.at(3,4))
-		fantasma3.position(game.at(1,2))
+		fantasma3.position(game.at(8,2))
 	
 		
 
@@ -194,34 +194,40 @@ object fantasma3 inherits Fantasma(numero = 5, posicionY = 5){
 
 }
 
-object llave inherits Posiciones ( position = game.at(7,4)) {
+class Llave {
 	
-	method image() = "llave1.png"
+	var propiaPuerta 
 	
 	method consecuencia(){
 		game.removeVisual(self)
-		game.addVisual(puerta)
+		game.addVisual(propiaPuerta)
 	}
 }
 
-object llave2 inherits Posiciones ( position = game.at(5,4)){
+object llave inherits Llave (propiaPuerta = puerta){
 	
 	method image() = "llave1.png"
 	
-	method consecuencia(){
-		game.removeVisual(self)
-		game.addVisual(puerta2)
-	}
+	method position()=game.at(7,4)
 }
 
-object llave3 inherits Posiciones ( position = game.at(5,4)){
+object llave2 inherits Llave (propiaPuerta = puerta2){
 	
-	method image() = "llave3.png"
+	method image() = "llave1.png"
 	
-	method consecuencia(){
-		game.removeVisual(self)
-		game.addVisual(puerta3)
-	}  
+	method position()=game.at(5,4)
+
+
+}
+
+
+object llave3 inherits Llave (propiaPuerta = puerta3){
+	
+	method image() = "lave3.png"
+	
+	method position()=game.at(9,4)
+
+
 }
 
 object ganaste inherits Posiciones ( position = game.at(2,1)){
